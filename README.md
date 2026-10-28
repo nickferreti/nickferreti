@@ -127,6 +127,10 @@ class Nickolas:
 ### 📊 GitHub stats
 
 <p align="center">
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/nickferreti/nickferreti/metrics/prs-opened.json" alt="PRs opened" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/nickferreti/nickferreti/metrics/prs-merged.json" alt="PRs merged" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/nickferreti/nickferreti/metrics/prs-reviewed.json" alt="PRs reviewed" />
+  <br/><br/>
   <img width="100%" src="https://raw.githubusercontent.com/nickferreti/nickferreti/metrics/metrics.svg" alt="GitHub metrics (private and organization contributions included)" />
 </p>
 
