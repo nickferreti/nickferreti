@@ -127,14 +127,7 @@ class Nickolas:
 ### 📊 GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nickferreti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=06B6D4&text_color=C9D1D9&ring_color=4F46E5" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nickferreti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4F46E5&icon_color=0891B2&ring_color=4F46E5" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nickferreti&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickferreti&layout=compact&langs_count=6&hide_border=true&title_color=4F46E5" alt="Top languages" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/nickferreti/nickferreti/metrics/metrics.svg" alt="GitHub metrics (private and organization contributions included)" />
 </p>
 
 <p align="center">
