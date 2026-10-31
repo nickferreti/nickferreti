@@ -16,19 +16,19 @@
   <text x="25" y="35" class="header">Most Used Languages</text>
   <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 55)">
     <text class="lang" y="12">Python</text>
-    <text class="lang" x="300" y="12" text-anchor="end">77.74%</text>
+    <text class="lang" x="300" y="12" text-anchor="end">77.76%</text>
     <rect y="20" rx="4" width="275" height="8" fill="#4F46E5" fill-opacity="0.15" />
-    <svg class="grow" y="20" width="213.78" height="8"><rect rx="4" width="100%" height="8" fill="#3572A5" /></svg>
+    <svg class="grow" y="20" width="213.85" height="8"><rect rx="4" width="100%" height="8" fill="#3572A5" /></svg>
   </g>
   <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 95)">
     <text class="lang" y="12">TypeScript</text>
-    <text class="lang" x="300" y="12" text-anchor="end">19.57%</text>
+    <text class="lang" x="300" y="12" text-anchor="end">19.55%</text>
     <rect y="20" rx="4" width="275" height="8" fill="#4F46E5" fill-opacity="0.15" />
-    <svg class="grow" y="20" width="53.81" height="8"><rect rx="4" width="100%" height="8" fill="#3178C6" /></svg>
+    <svg class="grow" y="20" width="53.76" height="8"><rect rx="4" width="100%" height="8" fill="#3178C6" /></svg>
   </g>
   <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 135)">
     <text class="lang" y="12">JavaScript</text>
-    <text class="lang" x="300" y="12" text-anchor="end">2.12%</text>
+    <text class="lang" x="300" y="12" text-anchor="end">2.11%</text>
     <rect y="20" rx="4" width="275" height="8" fill="#4F46E5" fill-opacity="0.15" />
     <svg class="grow" y="20" width="8.00" height="8"><rect rx="4" width="100%" height="8" fill="#F1E05A" /></svg>
   </g>
